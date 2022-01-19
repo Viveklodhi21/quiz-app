@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "title": "Brown Perfume",
+      "createdat": "11/10/2021",
+      "thumbnail": "https://dummyjson.com/image/i/products/12/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/12/1.jpg",
+        "https://dummyjson.com/image/i/products/12/2.jpg",
+        "https://dummyjson.com/image/i/products/12/3.png",
+        "https://dummyjson.com/image/i/products/12/4.jpg",
+        "https://dummyjson.com/image/i/products/12/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Brown Perfume",
+      "createdat": "11/10/2021",
+      "thumbnail": "https://dummyjson.com/image/i/products/12/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/12/1.jpg",
+        "https://dummyjson.com/image/i/products/12/2.jpg",
+        "https://dummyjson.com/image/i/products/12/3.png",
+        "https://dummyjson.com/image/i/products/12/4.jpg",
+        "https://dummyjson.com/image/i/products/12/thumbnail.jpg"
+      ]
+    }
+  ]
+}
